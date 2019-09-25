@@ -1,0 +1,10 @@
+D:\Jeremy\subStringtest\ExchangeValue\bin\Debug\netcoreapp2.1\ExchangeValue.deps.json
+D:\Jeremy\subStringtest\ExchangeValue\bin\Debug\netcoreapp2.1\ExchangeValue.runtimeconfig.json
+D:\Jeremy\subStringtest\ExchangeValue\bin\Debug\netcoreapp2.1\ExchangeValue.runtimeconfig.dev.json
+D:\Jeremy\subStringtest\ExchangeValue\bin\Debug\netcoreapp2.1\ExchangeValue.dll
+D:\Jeremy\subStringtest\ExchangeValue\bin\Debug\netcoreapp2.1\ExchangeValue.pdb
+D:\Jeremy\subStringtest\ExchangeValue\obj\Debug\netcoreapp2.1\ExchangeValue.csproj.CoreCompileInputs.cache
+D:\Jeremy\subStringtest\ExchangeValue\obj\Debug\netcoreapp2.1\ExchangeValue.AssemblyInfoInputs.cache
+D:\Jeremy\subStringtest\ExchangeValue\obj\Debug\netcoreapp2.1\ExchangeValue.AssemblyInfo.cs
+D:\Jeremy\subStringtest\ExchangeValue\obj\Debug\netcoreapp2.1\ExchangeValue.dll
+D:\Jeremy\subStringtest\ExchangeValue\obj\Debug\netcoreapp2.1\ExchangeValue.pdb

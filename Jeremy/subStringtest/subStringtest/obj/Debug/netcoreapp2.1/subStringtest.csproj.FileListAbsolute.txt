@@ -1,0 +1,11 @@
+D:\Jeremy\subStringtest\subStringtest\bin\Debug\netcoreapp2.1\subStringtest.deps.json
+D:\Jeremy\subStringtest\subStringtest\bin\Debug\netcoreapp2.1\subStringtest.runtimeconfig.json
+D:\Jeremy\subStringtest\subStringtest\bin\Debug\netcoreapp2.1\subStringtest.runtimeconfig.dev.json
+D:\Jeremy\subStringtest\subStringtest\bin\Debug\netcoreapp2.1\subStringtest.dll
+D:\Jeremy\subStringtest\subStringtest\bin\Debug\netcoreapp2.1\subStringtest.pdb
+D:\Jeremy\subStringtest\subStringtest\obj\Debug\netcoreapp2.1\subStringtest.csprojAssemblyReference.cache
+D:\Jeremy\subStringtest\subStringtest\obj\Debug\netcoreapp2.1\subStringtest.csproj.CoreCompileInputs.cache
+D:\Jeremy\subStringtest\subStringtest\obj\Debug\netcoreapp2.1\subStringtest.AssemblyInfoInputs.cache
+D:\Jeremy\subStringtest\subStringtest\obj\Debug\netcoreapp2.1\subStringtest.AssemblyInfo.cs
+D:\Jeremy\subStringtest\subStringtest\obj\Debug\netcoreapp2.1\subStringtest.dll
+D:\Jeremy\subStringtest\subStringtest\obj\Debug\netcoreapp2.1\subStringtest.pdb

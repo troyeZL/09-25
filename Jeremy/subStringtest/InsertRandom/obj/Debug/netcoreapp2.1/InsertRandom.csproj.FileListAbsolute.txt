@@ -1,0 +1,10 @@
+D:\Jeremy\subStringtest\InsertRandom\bin\Debug\netcoreapp2.1\InsertRandom.deps.json
+D:\Jeremy\subStringtest\InsertRandom\bin\Debug\netcoreapp2.1\InsertRandom.runtimeconfig.json
+D:\Jeremy\subStringtest\InsertRandom\bin\Debug\netcoreapp2.1\InsertRandom.runtimeconfig.dev.json
+D:\Jeremy\subStringtest\InsertRandom\bin\Debug\netcoreapp2.1\InsertRandom.dll
+D:\Jeremy\subStringtest\InsertRandom\bin\Debug\netcoreapp2.1\InsertRandom.pdb
+D:\Jeremy\subStringtest\InsertRandom\obj\Debug\netcoreapp2.1\InsertRandom.csproj.CoreCompileInputs.cache
+D:\Jeremy\subStringtest\InsertRandom\obj\Debug\netcoreapp2.1\InsertRandom.AssemblyInfoInputs.cache
+D:\Jeremy\subStringtest\InsertRandom\obj\Debug\netcoreapp2.1\InsertRandom.AssemblyInfo.cs
+D:\Jeremy\subStringtest\InsertRandom\obj\Debug\netcoreapp2.1\InsertRandom.dll
+D:\Jeremy\subStringtest\InsertRandom\obj\Debug\netcoreapp2.1\InsertRandom.pdb

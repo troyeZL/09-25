@@ -1,0 +1,10 @@
+D:\Jeremy\subStringtest\BubbleSorting\bin\Debug\netcoreapp2.1\BubbleSorting.deps.json
+D:\Jeremy\subStringtest\BubbleSorting\bin\Debug\netcoreapp2.1\BubbleSorting.runtimeconfig.json
+D:\Jeremy\subStringtest\BubbleSorting\bin\Debug\netcoreapp2.1\BubbleSorting.runtimeconfig.dev.json
+D:\Jeremy\subStringtest\BubbleSorting\bin\Debug\netcoreapp2.1\BubbleSorting.dll
+D:\Jeremy\subStringtest\BubbleSorting\bin\Debug\netcoreapp2.1\BubbleSorting.pdb
+D:\Jeremy\subStringtest\BubbleSorting\obj\Debug\netcoreapp2.1\BubbleSorting.csproj.CoreCompileInputs.cache
+D:\Jeremy\subStringtest\BubbleSorting\obj\Debug\netcoreapp2.1\BubbleSorting.AssemblyInfoInputs.cache
+D:\Jeremy\subStringtest\BubbleSorting\obj\Debug\netcoreapp2.1\BubbleSorting.AssemblyInfo.cs
+D:\Jeremy\subStringtest\BubbleSorting\obj\Debug\netcoreapp2.1\BubbleSorting.dll
+D:\Jeremy\subStringtest\BubbleSorting\obj\Debug\netcoreapp2.1\BubbleSorting.pdb
